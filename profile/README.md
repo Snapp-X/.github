@@ -2,10 +2,6 @@
 
 Snapp X is your agency for Apps on any screen
 
-<p align="left">
-<img src="https://github.com/Snapp-Embedded/.github/assets/47558577/0fe761b2-dbc1-46e7-9243-2496453d052c" width="100%" alt="Styles" />
-</p>
-
 ## We love Flutter
 We're all about Flutter, and we share our knowledge, experience and resources to make creating stunning Flutter UIs for embedded systems – for everyone.
 
